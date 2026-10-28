@@ -4,7 +4,7 @@ A reference atlas for The Via: routes, notes and waypoints.
 
 ## Links
 
-- [The Via Atlas](https://theviatlas.com/)
+- [the Via atlas](https://theviatlas.com/)
 
 - [Main site](https://theviatlas.com/)
 
