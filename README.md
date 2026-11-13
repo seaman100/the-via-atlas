@@ -2,12 +2,12 @@
 
 A reference atlas for The Via: routes, notes and waypoints.
 
-## Links
+The tool itself is at [GTA VI interactive map](https://theviatlas.com/en/map).
 
-- [the Via atlas](https://theviatlas.com/)
+There is a longer walkthrough at [marker index](https://theviatlas.com/en/map/markers).
 
-- [Main site](https://theviatlas.com/)
+Project home: [VI Atlas](https://theviatlas.com/).
 
-## Notes
+---
 
-Independent project. Free to use in the browser; no account required.
+Independent project. Free to use in the browser, no account required.
